@@ -21,12 +21,6 @@ Identify funds at risk of recovery failure based on historical NAV drawdowns.
 - Source: AMFI NAV data
 - Due to size limitations, only a sample dataset is included
 
-## Project Structure
-- data/
-- notebooks/
-- src/
-- report/
-
 ## Key Features
 - Drawdown-based feature engineering
 - SHAP explainability
